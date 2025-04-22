@@ -1,0 +1,7 @@
+com/baseproject/dto/UsuariosResponse.class
+com/baseproject/controller/UsuarioController.class
+com/baseproject/BaseProjectApplication.class
+com/baseproject/service/impl/AgruparUsuarios.class
+com/baseproject/service/impl/Agrupados.class
+com/baseproject/dto/Usuario.class
+com/baseproject/dto/UsuarioResponse.class
